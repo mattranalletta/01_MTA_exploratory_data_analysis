@@ -1,22 +1,23 @@
 # Metis Project 1: Exploratory Data Analysis for MTA Turnstile Data
 
-## Group members:
+## Group members
 - Chris Doenlen
 - Vanessa Hu
 - Jay Park
 - Matt Ranalletta
 
-## Summary
-
-
-## Contents:
+## Contents
 - Group presentation
 - Code
 
-## Sources:
+## Sources
 - [MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
 
-## Background:
+## Approach
+
+## Summary of Results
+
+## Background
 An email from a potential client:
 
 > Vinny & Joan -
