@@ -1,6 +1,6 @@
 # Metis Project 1: Exploratory Data Analysis for MTA Turnstile Data
 
-Students are tasked with optimizing the placement of street teams around New York City subway stations, to gather contact information for an annual fall gala held by WomenTechWomenYes (WTWY). 
+The group is tasked with optimizing the placement of street teams around New York City subway stations, to gather contact information for an annual fall gala held by WomenTechWomenYes (WTWY). 
 
 The goals of the client are: (1) to fill the seats for the event with individuals passionate about increasing the participation of women in tech and 
 (2) to build awareness and reach for WTWY.
