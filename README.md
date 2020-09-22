@@ -15,7 +15,8 @@ The goals of the client are: (1) to fill the seats for the event with individual
 
 ## Contents
 - Group presentation
-- Code
+- Python Notebook code
+- CSV file
 
 ## Sources
 - [MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
