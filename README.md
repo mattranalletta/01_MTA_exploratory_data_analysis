@@ -6,6 +6,9 @@
 - Jay Park
 - Matt Ranalletta
 
+## Summary
+
+
 ## Contents:
 - Group presentation
 - Code
