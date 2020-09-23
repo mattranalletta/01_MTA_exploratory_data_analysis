@@ -14,8 +14,7 @@ The goals of the client are: (1) to fill the seats for the event with individual
 
 ## Contents
 - Group presentation
-- Cleaned up data
-- Python Notebook code and analysis
+- [Cleaned up data](https://github.com/mattranalletta/ridge_project1_group4/blob/master/mta_data_cleaning.ipynb)
 
 ## Sources
 - [MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
