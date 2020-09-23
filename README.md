@@ -7,10 +7,10 @@ The goals of the client are: (1) to fill the seats for the event with individual
 [More background information here.](https://github.com/mattranalletta/onl20_ds4/blob/master/curriculum/project-01/project-01-introduction/project_01.md)
 
 ## Group members
-- Chris Doenlen
-- Vanessa Hu
-- Jay Park
-- Matt Ranalletta
+- [Chris Doenlen](https://github.com/scrapfishies)
+- [Vanessa Hu](https://github.com/vanessa920)
+- [Jay Park](https://github.com/jcpark376)
+- [Matt Ranalletta](https://github.com/mattranalletta)
 
 ## Contents
 - Group presentation
