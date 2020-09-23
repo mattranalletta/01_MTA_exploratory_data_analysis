@@ -21,5 +21,5 @@ The goals of the client are: (1) to fill the seats for the event with individual
 ## Sources
 - [MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
 - [subwayridership.nyc](https://www.subwayridership.nyc/)
-
+- [Google Drive - Slides, etc](https://drive.google.com/drive/folders/1Yim20c7CxVj5_uzsiUyp9n4wStXJZ8AT)
 ## Summary
