@@ -17,6 +17,9 @@ The goals of the client are: (1) to fill the seats for the event with individual
 - [Cleaned up MTA data](https://github.com/mattranalletta/ridge_project1_group4/blob/master/mta_clean.zip) (.zip)
 - [Notes and code on data cleaning process](https://github.com/mattranalletta/ridge_project1_group4/blob/master/mta_data_cleaning.ipynb) (.ipynb)
 
+## Summary of Results
+-
+
 ## Sources & Reference
 - [MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
 - [MTA Turnstile Data - codebook](http://web.mta.info/developers/resources/nyct/turnstile/ts_Field_Description.txt)
@@ -24,5 +27,3 @@ The goals of the client are: (1) to fill the seats for the event with individual
 - [Kaggle: MTA Turnstile Data Analysis](https://www.kaggle.com/nieyuqi/mta-turnstile-data-analysis)
 - [NYC Subway Ridership visualization](https://www.subwayridership.nyc/)
 - [Google Drive team folder](https://drive.google.com/drive/folders/1Yim20c7CxVj5_uzsiUyp9n4wStXJZ8AT)
-
-## Summary
