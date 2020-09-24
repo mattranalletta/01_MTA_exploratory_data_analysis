@@ -24,7 +24,7 @@ The goals of the client are: (1) to fill the seats for the event with individual
 ## Sources & Reference
 - [MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
 - [MTA Turnstile Data - codebook](http://web.mta.info/developers/resources/nyct/turnstile/ts_Field_Description.txt)
-- [MTA NYC Subway Map](http://web.mta.info/maps/Large_Print_Map.pdf)
+- [MTA.info](http://www.mta.info/nyct), for maps and line logos
 - [Kaggle: MTA Turnstile Data Analysis](https://www.kaggle.com/nieyuqi/mta-turnstile-data-analysis)
 - [NYC Subway Ridership visualization](https://www.subwayridership.nyc/)
 - [Google Drive team folder](https://drive.google.com/drive/folders/1Yim20c7CxVj5_uzsiUyp9n4wStXJZ8AT)
