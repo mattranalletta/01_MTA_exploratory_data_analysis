@@ -17,8 +17,9 @@ The goals of the client are: (1) to fill the seats for the event with individual
 - [Cleaned up MTA data](https://github.com/mattranalletta/ridge_project1_group4/blob/master/mta_clean.zip) (.zip)
 - [Notes and code on data cleaning process](https://github.com/mattranalletta/ridge_project1_group4/blob/master/mta_data_cleaning.ipynb) (.ipynb)
 
-## Summary of Results
--
+## Summary
+
+
 
 ## Sources & Reference
 - [MTA Turnstile Data](http://web.mta.info/developers/turnstile.html)
