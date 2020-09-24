@@ -13,7 +13,7 @@ The goals of the client are: (1) to fill the seats for the event with individual
 - [Matt Ranalletta](https://github.com/mattranalletta)
 
 ## Contents
-- Group presentation
+- [Group presentation](https://docs.google.com/presentation/d/1Q_U4rYyoloahitBcZuARr487QZ6sxZb2L_yVPOt2Yb4/edit#slide=id.g99be238712_1_9)
 - [Cleaned up data](https://github.com/mattranalletta/ridge_project1_group4/blob/master/mta_data_cleaning.ipynb) (.csv)
 
 ## Sources & Reference
@@ -22,6 +22,6 @@ The goals of the client are: (1) to fill the seats for the event with individual
 - [MTA NYC Subway Map](http://web.mta.info/maps/Large_Print_Map.pdf)
 - [Kaggle: MTA Turnstile Data Analysis](https://www.kaggle.com/nieyuqi/mta-turnstile-data-analysis)
 - [NYC Subway Ridership visualization](https://www.subwayridership.nyc/)
-- [Google Drive - Slides, etc](https://drive.google.com/drive/folders/1Yim20c7CxVj5_uzsiUyp9n4wStXJZ8AT)
+- [Google Drive folder](https://drive.google.com/drive/folders/1Yim20c7CxVj5_uzsiUyp9n4wStXJZ8AT)
 
 ## Summary
