@@ -17,7 +17,7 @@ The goals of the client are: (1) to fill the seats for the event with individual
 - [Notes and code on data cleaning process](https://github.com/mattranalletta/ridge_project1_group4/blob/master/Project_1_mta_data_analysis.ipynb) (.ipynb)
 - [Cleaned up MTA data](https://github.com/mattranalletta/ridge_project1_group4/blob/master/mta_clean.zip) (.zip)
 
-## Summary (may need more work)
+## Summary
 
 We downloaded six weeks of the MTA's public turnstile data from the summer of 2019 and cleaned it by removing outliers and messy data, as described in the code notes [here](https://github.com/mattranalletta/ridge_project1_group4/blob/master/Project_1_mta_data_analysis.ipynb). We parsed the data set to find the busiest stations, based on number of entries and exits at each station, and then combined that with research on the locations of tech companies in New York. 
 
