@@ -14,8 +14,8 @@ The goals of the client are: (1) to fill the seats for the event with individual
 
 ## Contents
 - [Group presentation](https://github.com/mattranalletta/ridge_project1_group4/blob/master/Ridge-Group4%20Presentation.pdf)
-- [Notes and code on data cleaning process](https://github.com/mattranalletta/ridge_project1_group4/blob/master/Project_1_mta_data_analysis.ipynb) (.ipynb)
-- [Cleaned up MTA data](https://github.com/mattranalletta/ridge_project1_group4/blob/master/mta_clean.zip) (.zip)
+- [Notes and code on data cleaning process](https://github.com/mattranalletta/ridge_project1_group4/blob/master/data_cleaning/mta_data_cleaning.ipynb) (.ipynb)
+- [Cleaned up MTA data](https://github.com/mattranalletta/ridge_project1_group4/blob/master/data_cleaning/mta_clean.zip) (.zip)
 
 ## Summary
 
