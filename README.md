@@ -30,3 +30,4 @@ From there, we picked ten key stations that both had high turnstile traffic and 
 - [MTA Turnstile Data - codebook](http://web.mta.info/developers/resources/nyct/turnstile/ts_Field_Description.txt)
 - [MTA.info](http://www.mta.info/nyct), for maps and line logos
 - [Kaggle: MTA Turnstile Data Analysis](https://www.kaggle.com/nieyuqi/mta-turnstile-data-analysis)
+- [MTA Turnstile Traffic Analysis to Optimize Street Engagements](https://towardsdatascience.com/mta-turnstile-traffic-analysis-to-optimize-street-engagements-a7391adc4d45)
